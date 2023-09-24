@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Gavin.Home",
   "resources": {
-    "hash": "sha256-mdHJawCBFJsnTmHr/h6cvi5ZejFeMWQ55PlpgKydUDo=",
+    "hash": "sha256-/EGg7GjOcIHTdR1sunNglX2KImGl+X4L3vbTHh6hXbE=",
     "jsModuleNative": {
       "dotnet.native.8.0.0-rc.1.23419.4.ebljfje3wy.js": "sha256-OB3SMFoT4gk9/wIBQcRjNXymkeCQlE2dnf0hv4iEznw="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Gavin.Home.wasm": "sha256-YtpfzGSUnwUhdMzH7yKtooDuvKGOqu5Qcp8fvysGw80=",
+      "Gavin.Home.wasm": "sha256-6nuU0BvWEdgzdisCVflE4owWhUN44wpbMwhNsNhn0g4=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-I0qNOVLiKJq+Q6MxBsGhQ+BcdAYr9RooQPtMt5/J3O0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-GtxmSel6kj8c9n1edrc5xqOJzmubKS3T4OPDza8KTqI=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-adzPHvLtMQODQ3pjxkXlTN/IwN9e3N/mYDqJAv5vml0=",
